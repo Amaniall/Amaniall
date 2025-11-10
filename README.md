@@ -62,5 +62,5 @@
 
 My Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=Amaniall&show_icons=true&theme=aura&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaniall&show_icons=true&theme=aura&hide_border=true&count_private=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaniall&layout=compact&langs_count=6&theme=aura&hide_border=true" height="160" alt="languages graph"  /> 
