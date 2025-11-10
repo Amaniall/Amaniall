@@ -5,7 +5,7 @@
     
   </head>
   <body style="font-family: sans-serif; background-color: #f2f2f2;">
-    <h1 style="font-size: 3rem; text-align: center; margin: 2rem;">🚀 Welcome To My Github 🌟</h1>
+    <h1 style="font-size: 3rem; text-align: center; margin: 2rem;">🚀 Welcome To My Github </h1>
     <p style="font-size: 1.5rem; text-align: center; margin: 1rem;">Welcome to my Github! Here you can find some of my recent projects and learn more about me. 🤓</p>
     <p style="font-size: 1.5rem; text-align: center; margin: 1rem;">Feel free to reach out to me if you have any questions or would like to collaborate on a project. 🤝</p>
     
